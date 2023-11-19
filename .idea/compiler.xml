@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jcstress_ordering" />
+        <module name="case_tomcat" />
+        <module name="jmh_eliminate_locks" />
+        <module name="jmh_performance" />
+        <module name="learn1" />
+        <module name="case_java8" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="case_java8" target="1.8" />
+      <module name="case_tomcat" target="1.8" />
+      <module name="jcstress_ordering" target="1.8" />
+      <module name="jmh_eliminate_locks" target="1.8" />
+      <module name="jmh_performance" target="1.8" />
+      <module name="learn1" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

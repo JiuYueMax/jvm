@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/case_java8/case_java8.iml" filepath="$PROJECT_DIR$/case_java8/case_java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/case_tomcat/case_tomcat.iml" filepath="$PROJECT_DIR$/case_tomcat/case_tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/concurrent.iml" filepath="$PROJECT_DIR$/.idea/concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jcstress_ordering/jcstress_ordering.iml" filepath="$PROJECT_DIR$/jcstress_ordering/jcstress_ordering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmh_eliminate_locks/jmh_eliminate_locks.iml" filepath="$PROJECT_DIR$/jmh_eliminate_locks/jmh_eliminate_locks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmh_performance/jmh_performance.iml" filepath="$PROJECT_DIR$/jmh_performance/jmh_performance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn1/learn1.iml" filepath="$PROJECT_DIR$/learn1/learn1.iml" />
+    </modules>
+  </component>
+</project>
